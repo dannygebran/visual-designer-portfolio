@@ -130,7 +130,7 @@ div .img-centered {
 
 
 
-@media screen and (min-width: 760px){
+@media screen and (min-width: 1275px){
   #mybody {
     display: grid;
     position: absolute;
@@ -199,10 +199,11 @@ div .img-centered {
   header .introbtn{
     display: inline-grid;
     float: right;
-    justify-self: stretch;
+    justify-self: center;
+    align-self:start;
     height: auto;
     width: auto;
-    padding: 15% 1% 15% 1%;
+    padding: 20% 0% 10% 0%;
     margin: 0px 0px;
     text-align: right;
   }
