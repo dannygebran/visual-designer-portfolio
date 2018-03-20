@@ -201,7 +201,7 @@ div .img-centered {
     float: right;
     justify-self: stretch;
     height: auto;
-    width: 666px;
+    width: auto;
     padding: 15% 1% 15% 1%;
     margin: 0px 0px;
     text-align: right;
