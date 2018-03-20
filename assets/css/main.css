@@ -189,16 +189,16 @@ div .img-centered {
   }
   header .main-img{
     float: left;
-    display: inline-grid;
+    justify-self:left;
     height: auto;
-    width: 666px;
+    width: auto;
     margin: 0px 0px;
     padding: 0px 1% 0px 1%;
     border: 0 0;
   }
   header .introbtn{
     float: right;
-    justify-self: center;
+    justify-self: right;
     align-self:start;
     height: auto;
     width: auto;
