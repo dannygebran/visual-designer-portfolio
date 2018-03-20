@@ -197,7 +197,6 @@ div .img-centered {
     border: 0 0;
   }
   header .introbtn{
-    display: inline-grid;
     float: right;
     justify-self: center;
     align-self:start;
